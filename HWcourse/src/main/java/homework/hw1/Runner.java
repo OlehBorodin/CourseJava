@@ -5,6 +5,8 @@ public class Runner {
       Easy.printArray();
         System.out.println("___________________");
         Easy.reversArray();
+        System.out.println("___________________");
+        Easy.revArray();
 
         Easy.getArgument();
         System.out.println("___________________");

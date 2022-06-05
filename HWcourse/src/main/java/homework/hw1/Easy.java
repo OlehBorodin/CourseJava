@@ -12,6 +12,13 @@ public class Easy {
             System.out.println(i);
         }
     }
+    public static void revArray(){
+
+        for (int i = arr.length; i>=0; i--){
+            System.out.println(i);
+
+        }
+    }
 
     public static void reversArray(){
         int n = arr.length;
